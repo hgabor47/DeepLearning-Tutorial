@@ -1,4 +1,4 @@
-# Deep leaning tutoriel
+# Deep leaning tutorial
 
 ## Introduction
 
